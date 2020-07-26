@@ -45,7 +45,7 @@
                                  <li><a href="single.php?id=portrait">People & Portraits</a></li>
                                  <li><a href="single.php?id=architecture">Architecture</a></li>
                                  <li><a href="single.php?id=streets">Streets</a></li>
-                                 <li><a href="single.php?id=insects">Insects</a></li>
+                                 <li><a href="single.php?id=object">Objects</a></li>
                               </ul>
                            </li>
                            <li><a href="about.html">About</a></li>
